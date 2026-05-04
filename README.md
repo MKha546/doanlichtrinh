@@ -320,7 +320,7 @@ Project này được phát triển cho mục đích học tập và nghiên c�
 
 ## 👨‍💻 Tác giả
 
-Được phát triển bởi [Tên của bạn]
+Được phát triển bởi [MINH KHA]
 
 ---
 
